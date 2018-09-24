@@ -1,0 +1,14 @@
+{
+  "name": "build",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/hackages/pwa-rocks.git",
+  "author": "davyengone <davy@hackages.io>",
+  "license": "MIT",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "dependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
